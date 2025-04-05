@@ -1,6 +1,6 @@
 # 🚀 Cryptoverse – Explore the World of Cryptocurrency
+![Screenshot 2025-04-05 134903](https://github.com/user-attachments/assets/8d02e5f6-aa34-47e3-9990-0517a97183de)
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)  
 ![App Screenshot](https://github.com/user-attachments/assets/a034a10d-7108-40d8-a6ce-ffc6c101d3ad)
 
 ## 📌 Introduction
